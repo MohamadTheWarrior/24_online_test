@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951910892413",
+    "project_id": "twenty-four-470ce",
+    "storage_bucket": "twenty-four-470ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951910892413:android:21b0487c20fee76cb8c214",
+        "android_client_info": {
+          "package_name": "com.example.twenty_four_online_interview_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951910892413-ggajfmdk6lj2sgh0olgc76qtdi6frumb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLA-7i_NwazXg5bxHp8oFHbAMzic-9bNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951910892413-ggajfmdk6lj2sgh0olgc76qtdi6frumb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
