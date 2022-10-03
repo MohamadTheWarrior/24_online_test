@@ -17,7 +17,7 @@ import 'package:flutter/material.dart' as _i6;
 import '../../features/authentication/view/authentication_view.dart' as _i1;
 import '../../features/home/cubit/home_cubit.dart' as _i7;
 import '../../features/home/models/wish_model.dart' as _i8;
-import '../../features/home/view/add_or_edit_wish_view.dart' as _i2;
+import '../../features/add_or_edit_wish/view/add_or_edit_wish_view.dart' as _i2;
 import '../../features/home/view/home_view.dart' as _i4;
 import '../../features/sign_in/view/sign_in_view.dart' as _i3;
 

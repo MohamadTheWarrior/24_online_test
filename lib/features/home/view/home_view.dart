@@ -1,11 +1,10 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:twenty_four_online_interview_test/features/add_or_edit_wish/view/widgets/wish_tile.dart';
 import 'package:twenty_four_online_interview_test/features/home/cubit/home_cubit.dart';
 import 'package:twenty_four_online_interview_test/features/home/repository/home_repository.dart';
 import 'package:twenty_four_online_interview_test/global/router/router.gr.dart';
-
-import 'widgets/wish_tile.dart';
 
 class HomeView extends StatelessWidget {
   const HomeView({Key? key}) : super(key: key);
